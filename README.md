@@ -1,0 +1,1 @@
+"# swad-trading-journal" 
