@@ -145,8 +145,8 @@ export default function App() {
               <th className="p-2">Timeframe</th><th className="p-2">Setup</th><th className="p-2">Size</th>
               <th className="p-2">Entry</th><th className="p-2">Stop</th><th className="p-2">Take Profit</th>
               <th className="p-2">Actual Exit</th><th className="p-2">Fees</th><th className="p-2">PnL</th>
-              <th className="p-2">R:R</th><th className="p-2">Emotion</th><th className="p-2">Strategy</th>
-              <th className="p-2">Result</th><th className="p-2">Actions</th>
+              <th className="p-2">R:R</th><th className="p-2">Screenshot</th><th className="p-2">Emotion</th>
+              <th className="p-2">Strategy</th><th className="p-2">Result</th><th className="p-2">Actions</th>
             </tr>
           </thead>
           <tbody>
