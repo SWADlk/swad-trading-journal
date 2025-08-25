@@ -27,10 +27,8 @@
   },
   "homepage": "https://swadlk.github.io/swad-trading-journal",
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview",
-    "deploy": "gh-pages -d dist"
+    "predeploy": "npm run build",
+  "deploy": "gh-pages -d dist"
   }
 }
 
